@@ -70,3 +70,4 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 ## Author
 
 - Frontend Mentor - [@vnrzky](https://www.frontendmentor.io/profile/vnrzky)
+# interactive-rating-component
